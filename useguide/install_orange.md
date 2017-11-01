@@ -4,7 +4,7 @@ orange 安装过程
 1. 操作系统: linux
 ### 准备
 1. 安装需要依赖linx系统库:  `readline-devel pcre-devel openssl-devel gcc`
-1. `OpenResty`源码包,官网下载地址,这里已附带,点击下载[openresty-1.11.2.4.tar.gz](https://github.com/hewe1995/nginx-orange/安装包/openresty-1.11.2.4.tar.gz)
+1. `OpenResty`源码包,官网下载地址,这里已附带,点击下载[openresty-1.11.2.4.tar.gz](https://github.com/hewe1995/nginx-orange/blob/master/%E5%AE%89%E8%A3%85%E5%8C%85/openresty-1.11.2.4.tar.gz)
 1. lor框架
 1. MySQL
 ### 安装
